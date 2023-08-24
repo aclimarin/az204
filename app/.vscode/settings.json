@@ -1,0 +1,10 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#172F48",
+        "titleBar.activeBackground": "#204265",
+        "titleBar.activeForeground": "#F8FAFD"
+    },
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net7.0\\publish",
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/e2644411-c0f8-4c85-84a5-aabebc5aa6bb/resourceGroups/labaz204/providers/Microsoft.Web/sites/labaz204app"
+}
