@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kNEG6094koRXiWjDxSx5W21clI9YpQvUHBfkvnAgfE7KPzdbAvnKzz7e7MeWdyfOvkTIAveQwU15k/rIFbKfgg==",
+  "success": true,
+  "projectFilePath": "C:\\anacarol\\src\\github\\az204\\app\\az204.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aclim\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\7.0.10\\microsoft.netcore.app.host.linux-x64.7.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
